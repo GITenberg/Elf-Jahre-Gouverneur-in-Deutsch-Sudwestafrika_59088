@@ -1,11 +1,16 @@
 _repo: Elf-Jahre-Gouverneur-in-Deutsch-Sudwestafrika_59088
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59088-h/images/cover.jpg
 creator:
   author:
     agent_name: Leutwein, Theodor
     gutenberg_agent_id: '50296'
     url: http://www.gutenberg.org/2009/agents/50296
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59088#Elf-Jahre-Gouverneur-in-Deutsch-Sudwestafrika
 gutenberg_issued: '2019-03-18'
 gutenberg_type: Text
 identifiers:
